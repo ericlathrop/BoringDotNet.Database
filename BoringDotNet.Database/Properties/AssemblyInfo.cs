@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("BoringDotNet.Database")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Type-safe, transaction-safe, dependency-injectable library for database access")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Eric Lathrop")]
 [assembly: AssemblyProduct("BoringDotNet.Database")]
